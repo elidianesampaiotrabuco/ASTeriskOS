@@ -17,6 +17,8 @@ For introduce the Ubuntu environment' beauty (on web) and for fun. :) I was insp
 
 ## You can [try it!](https://malisipi.github.io/ubuntu-tour/)
 
+### Also thanks to 9to5Linux about [new that relased about the project](https://9to5linux.com/ubuntu-online-21-10-released-lets-you-try-ubuntu-desktop-in-a-web-browser).
+
 ## To-Do List
 
 * Increase clone apps' functionality

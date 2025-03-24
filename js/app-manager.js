@@ -122,6 +122,16 @@ app_list = [
         "special":true,
         "icon":"icons/Suru/Suru/256x256/apps/clock-app.png"
     }
+    {
+        "code_name":"testapp1",
+        "name":"zSearch",
+        "location":"apps/zapps/zSearch/app.html",
+        "icon_48":"icons/Suru/Suru/scalable_png/apps/zSearch.png",
+        "dark_icon":"icons/Suru/Suru/scalable_png/apps/zSearch.png",
+        "dark_icon_brightness":2,
+        "special":true,
+        "icon":"icons/Suru/Suru/scalable_png/apps/zSearch.png"
+    }
 ]
 
 // init app_menu
